@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bot-BasicBot-Pluggable-Module-TwitterWatch
-version:            0.01
+version:            0.02
 abstract:           report new tweets matching given search patterns
 author:
     - David Precious <davidp@preshweb.co.uk>
